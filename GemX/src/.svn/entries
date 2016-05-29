@@ -1,0 +1,86 @@
+10
+
+dir
+2
+http://ccfinderx-ng.googlecode.com/svn/branches/UI/CCFinderGUI/GemX/src
+http://ccfinderx-ng.googlecode.com/svn
+
+
+
+2012-09-01T12:56:59.068253Z
+2
+nicbet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d47404fc-3f12-f6dc-28d1-24bc8992ad15
+
+model
+dir
+
+gemx
+dir
+
+customwidgets
+dir
+
+utility
+dir
+
+ccfinderx
+dir
+
+GemXMain.java
+file
+
+
+
+
+2016-02-15T10:32:41.657355Z
+70fbf0cceb0d737b7d677d48c81d5859
+2012-09-01T12:56:59.068253Z
+2
+nicbet
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+612
+
+res
+dir
+
+resources
+dir
+
+constants
+dir
+

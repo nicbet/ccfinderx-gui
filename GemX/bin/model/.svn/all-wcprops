@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model
+END
+ClonesetAndFileIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/ClonesetAndFileIndex.class
+END
+CcfxDetectionOptions.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/CcfxDetectionOptions.class
+END
+CodeFragment.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/CodeFragment.class
+END
+SourceFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/SourceFile.class
+END
+Model.class
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/Model.class
+END
+ClonesetMetricModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/ClonesetMetricModel.class
+END
+FileMetricModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/FileMetricModel.class
+END
+SourceFileAndPosition.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/SourceFileAndPosition.class
+END
+LinebasedMetricModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/LinebasedMetricModel.class
+END
+CcfxDetectionOptions$Mutable.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/CcfxDetectionOptions$Mutable.class
+END
+ClonePair.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/ClonePair.class
+END
+CloneSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/CloneSet.class
+END
+CCFinderXInvocationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/CCFinderXInvocationException.class
+END
+MetricsSummaryData.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/MetricsSummaryData.class
+END
+DataFileReadError.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/branches/UI/CCFinderGUI/GemX/bin/model/DataFileReadError.class
+END
