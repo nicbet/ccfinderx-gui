@@ -1,0 +1,14 @@
+### CCFinderX GUI - GemX
+
+This project includes two source code folders:
+- GemX
+- PrepTokenExplorer
+
+Both folders are Eclipse projects and support compilation of the CCFinderX UI called GemX under Mac OS X and Ubuntu Linux.
+
+
+### Attribution
+
+AIST CCFinderX, originally developed by Toshihiro Kamiya is a code-clone detector, which detects code clones (duplicated code fragments) from source files written in Java, C/C++, COBOL, VB, C#. CCFinderX is a major version up of CCFinder, and it has been totally re-designed and re-implemented from scratch. Its new design and technologies aim at improving performance, enabling a user-side customization of a preprocessor, and providing an interactive analysis based on metrics.
+
+http://www.ccfinder.net/ccfinderxos.html
